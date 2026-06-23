@@ -6,5 +6,4 @@ reports/screenshots/
 reports/cucumber-report.json
 .env
 *.log
-app/*.msi
 app/*.exe
