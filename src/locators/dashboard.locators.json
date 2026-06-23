@@ -1,0 +1,25 @@
+{
+  "dashboardHeader": {
+    "css": "//div[contains(@title, 'Logged in as')]"
+  },
+  "metricsPanel": {
+    "css": ".metrics-panel"
+  },
+  "activityFeed": {
+    "css": ".activity-feed"
+  },
+  "refreshButton": {
+    "css": "#btn-refresh",
+    "text": "Refresh",
+    "role": "button"
+  },
+  "navMenu": {
+    "css": "nav.main-nav"
+  },
+  "loadingSpinner": {
+    "css": ".loading"
+  },
+  "reportsContainer": {
+    "css": ".reports-container"
+  }
+}

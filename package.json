@@ -1,0 +1,30 @@
+{
+  "name": "widget-automation",
+  "version": "1.0.0",
+  "description": "Electron BDD Automation Framework with Playwright, Cucumber, and Self-Healing Locators",
+  "scripts": {
+    "test": "tsx scripts/run-cucumber.js",
+    "test:login": "tsx scripts/run-cucumber.js --tags @login",
+    "test:dashboard": "tsx scripts/run-cucumber.js --tags @dashboard",
+    "test:settings": "tsx scripts/run-cucumber.js --tags @settings",
+    "test:feedback": "tsx scripts/run-cucumber.js --tags @feedback",
+    "report:gen": "allure generate reports/allure-results --clean -o reports/allure-report",
+    "report:open": "allure open reports/allure-report",
+    "clean": "rimraf reports/allure-results reports/allure-report reports/screenshots reports/heal-report.json reports/cucumber-report.json"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.44.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.3.2",
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.0",
+    "allure-cucumberjs": "^2.15.1",
+    "allure-js-commons": "^2.15.1",
+    "rimraf": "^5.0.5",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.3",
+    "typescript": "^5.4.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "settingsPage": {
+    "css": ".settings-container"
+  },
+  "themeDropdown": {
+    "css": "#theme-select",
+    "role": "combobox"
+  },
+  "saveSettingsButton": {
+    "css": "#btn-save-settings",
+    "text": "Save",
+    "role": "button"
+  },
+  "successNotification": {
+    "css": ".notification.success",
+    "text": "Settings saved"
+  },
+  "displayNameInput": {
+    "css": "#display-name",
+    "placeholder": "Display Name",
+    "role": "textbox"
+  },
+  "bodyElement": {
+    "css": "body"
+  }
+}

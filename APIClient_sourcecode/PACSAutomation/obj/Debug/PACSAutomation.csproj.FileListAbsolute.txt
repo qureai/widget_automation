@@ -1,0 +1,8 @@
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\obj\Debug\PACSAutomation.csproj.AssemblyReference.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\obj\Debug\PACSAutomation.csproj.CoreCompileInputs.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\bin\Debug\PACSAutomation.exe
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\bin\Debug\PACSAutomation.pdb
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\bin\Debug\Commissure.PACSConnector.RadWhereCOM.dll
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\obj\Debug\PACSAuto.A1D9A366.Up2Date
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\obj\Debug\PACSAutomation.exe
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PACSAutomation\obj\Debug\PACSAutomation.pdb

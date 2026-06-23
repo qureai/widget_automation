@@ -1,0 +1,6 @@
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.csproj.AssemblyReference.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.csproj.SuggestedBindingRedirects.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.exe.config
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.Properties.Resources.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.RadWhereCOMForm.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereCOM\obj\Debug\APIClient.RadWhereCOM.csproj.GenerateResource.cache

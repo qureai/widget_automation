@@ -1,0 +1,6 @@
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.csproj.AssemblyReference.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.csproj.SuggestedBindingRedirects.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.exe.config
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.IRadWhereForm.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.Properties.Resources.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.IRadWhere\obj\Debug\APIClient.IRadWhere.csproj.GenerateResource.cache

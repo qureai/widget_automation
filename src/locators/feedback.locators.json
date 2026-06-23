@@ -1,0 +1,23 @@
+{
+  "thumbsUpButton": {
+    "css": "//button[@title='Good result']"
+  },
+  "thumbsDownButton": {
+    "css": "//button[@title='Bad result']"
+  },
+  "thumbsUpButtonDefaultState": {
+    "css": "//*[contains(@class,'cursor-pointer') and contains(@class,'hover:text-teal-600')]"
+  },
+  "thumbsDownButtonDefaultState": {
+    "css": "//*[contains(@class,'cursor-pointer') and contains(@class,'hover:text-red-500')]"
+  },
+  "thumbsUpButtonPressedState": {
+    "css": "//*[contains(@class,'text-teal-700')]"
+  },
+  "thumbsDownButtonPressedState": {
+    "css": "//*[contains(@class,'text-red-600')]"
+  },
+  "submittedMessage": {
+    "css": "//div[text()='Submitted!']"
+  }
+}

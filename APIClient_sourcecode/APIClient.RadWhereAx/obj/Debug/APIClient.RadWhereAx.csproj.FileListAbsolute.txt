@@ -1,0 +1,4 @@
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereAx\obj\Debug\APIClient.RadWhereAx.csproj.AssemblyReference.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereAx\obj\Debug\APIClient.RadWhereAx.Properties.Resources.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereAx\obj\Debug\APIClient.RadWhereAx.RadWhereAxForm.resources
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\APIClient.RadWhereAx\obj\Debug\APIClient.RadWhereAx.csproj.GenerateResource.cache

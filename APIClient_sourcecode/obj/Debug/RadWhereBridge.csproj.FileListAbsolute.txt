@@ -1,0 +1,8 @@
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\RadWhereBridge.csproj.AssemblyReference.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\RadWhereBridge.csproj.CoreCompileInputs.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\RadWhereBridge.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\RadWhereBridge.pdb
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\Interop.RadWhereAxLib.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\RadWhere.A924A5AE.Up2Date
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\RadWhereBridge.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\RadWhereBridge.pdb

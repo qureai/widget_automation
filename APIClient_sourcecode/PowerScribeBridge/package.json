@@ -1,0 +1,13 @@
+{
+  "name": "radwhere-electron",
+  "version": "1.0.0",
+  "description": "Electron app to listen to RadWhere OpenStudy events",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^36.4.0",
+    "electron-edge-js": "^36.0.0"
+  }
+}

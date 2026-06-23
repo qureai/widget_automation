@@ -1,0 +1,10 @@
+node_modules/
+dist/
+reports/allure-results/
+reports/allure-report/
+reports/screenshots/
+reports/cucumber-report.json
+.env
+*.log
+app/*.msi
+app/*.exe

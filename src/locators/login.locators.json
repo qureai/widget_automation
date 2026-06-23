@@ -1,0 +1,30 @@
+{
+  "usernameInput": {
+    "css": "#username",
+    "placeholder": "Username",
+    "role": "textbox"
+  },
+  "passwordInput": {
+    "css": "#password",
+    "placeholder": "Password",
+    "role": "textbox"
+  },
+  "loginButton": {
+    "css": "#btn-login",
+    "text": "Login",
+    "role": "button"
+  },
+  "disconnectButton": {
+    "css": "//div[@title='Not logged in']"
+  },
+  "loggedInUser": {
+    "css": "//div[@title='Logged in as andy.murray']"
+  },
+  "loginErrorMessage": {
+    "css": ".error-message",
+    "text": "Invalid credentials"
+  },
+  "loginValidationError": {
+    "css": ".validation-error"
+  }
+}

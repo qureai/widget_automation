@@ -1,0 +1,8 @@
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\obj\Debug\PSConsole.csproj.AssemblyReference.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\obj\Debug\PSConsole.csproj.CoreCompileInputs.cache
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\bin\Debug\PSConsole.exe
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\bin\Debug\PSConsole.pdb
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\bin\Debug\Commissure.PACSConnector.RadWhereCOM.dll
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\obj\Debug\PSConsole.csproj.Up2Date
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\obj\Debug\PSConsole.exe
+C:\Users\qure1\Downloads\APIClient_sourcecode\APIClient_sourcecode\PSConsole\obj\Debug\PSConsole.pdb

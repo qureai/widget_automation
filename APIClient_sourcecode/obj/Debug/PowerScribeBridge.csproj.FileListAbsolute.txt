@@ -1,0 +1,8 @@
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\PowerScribeBridge.csproj.AssemblyReference.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\PowerScribeBridge.csproj.CoreCompileInputs.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\PowerScribeBridge.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\PowerScribeBridge.pdb
+C:\Users\qure\Desktop\APIClient_sourcecode\bin\Debug\Interop.RadWhereAxLib.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\PowerScr.4A060AF6.Up2Date
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\PowerScribeBridge.dll
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\PowerScribeBridge.pdb

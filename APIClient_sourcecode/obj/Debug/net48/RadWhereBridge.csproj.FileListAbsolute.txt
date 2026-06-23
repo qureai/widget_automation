@@ -1,0 +1,14 @@
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.csproj.AssemblyReference.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.Common.Forms.ReportTextDialog.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.Common.Forms.SettingsDialog.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.IRadWhere.IRadWhereForm.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.IRadWhere.Properties.Resources.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.RadWhereAx.Properties.Resources.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.RadWhereAx.RadWhereAxForm.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.RadWhereCOM.Properties.Resources.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.APIClient.RadWhereCOM.RadWhereCOMForm.resources
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.csproj.GenerateResource.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.AssemblyInfoInputs.cache
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.AssemblyInfo.cs
+C:\Users\qure\Desktop\APIClient_sourcecode\obj\Debug\net48\RadWhereBridge.csproj.CoreCompileInputs.cache
