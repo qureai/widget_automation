@@ -19,5 +19,31 @@
   },
   "submittedMessage": {
     "css": "//div[text()='Submitted!']"
-  }
+  },
+  "negativeFeedbackModalHeader": {
+    "css": "//h1[normalize-space()='Give additional feedback']",
+    "text": "Give additional feedback"
+  },
+
+  "falseNegativeOption": { "css": "//button[normalize-space()='False Negative']" },
+  "falseNegativeOptionActive": { "css": "//button[normalize-space()='False Negative' and contains(@class,'bg-teal-600')]" },
+  "falseNegativeOptionDefault": { "css": "//button[normalize-space()='False Negative' and contains(@class,'bg-gray-900')]" },
+
+  "falsePositiveOption": { "css": "//button[normalize-space()='False Positive']" },
+  "falsePositiveOptionActive": { "css": "//button[normalize-space()='False Positive' and contains(@class,'bg-teal-600')]" },
+  "falsePositiveOptionDefault": { "css": "//button[normalize-space()='False Positive' and contains(@class,'bg-gray-900')]" },
+
+  "performanceLagOption": { "css": "//button[normalize-space()='Performance lag']" },
+  "performanceLagOptionActive": { "css": "//button[normalize-space()='Performance lag' and contains(@class,'bg-teal-600')]" },
+  "performanceLagOptionDefault": { "css": "//button[normalize-space()='Performance lag' and contains(@class,'bg-gray-900')]" },
+
+  "connectionErrorOption": { "css": "//button[normalize-space()='Connection error']" },
+  "connectionErrorOptionActive": { "css": "//button[normalize-space()='Connection error' and contains(@class,'bg-teal-600')]" },
+  "connectionErrorOptionDefault": { "css": "//button[normalize-space()='Connection error' and contains(@class,'bg-gray-900')]" },
+
+  "othersOption": { "css": "//button[normalize-space()='Others']" },
+  "othersOptionActive": { "css": "//button[normalize-space()='Others' and contains(@class,'bg-teal-600')]" },
+  "othersOptionDefault": { "css": "//button[normalize-space()='Others' and contains(@class,'bg-gray-900')]" },
+
+  "submitButton": { "css": "//button[normalize-space()='Submit']" }
 }
